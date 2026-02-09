@@ -1,11 +1,20 @@
-# 🏛️ Acme Fintech Dashboard | Full-Stack Enterprise Dashboard
+<h1 align="center">🏛️ Acme Fintech Dashboard</h1>
 
-[![Next.js](https://img.shields.io/badge/Next.js-15+-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-Hosted-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+<p align="center">
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-15+-black?style=for-the-badge&logo=next.js" alt="Next.js">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
+  </a>
+</p>
 
-A professional-grade administrative dashboard built to master the **Next.js App Router** architecture. This project demonstrates modern full-stack capabilities, focusing on type-safe data fetching, server-side mutations, and optimized user experiences.
+<p align="center">
+  A professional-grade administrative dashboard built to master the **Next.js App Router** architecture. This project demonstrates modern full-stack capabilities, focusing on type-safe data fetching, server-side mutations, and optimized user experiences.
+</p>
 
 ---
 
