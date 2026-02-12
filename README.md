@@ -53,7 +53,7 @@ This repository serves as a technical log of my mastery over the following conce
 
 - [x] **Optimized UI:** Responsive layout logic using Tailwind CSS and the `clsx` library.
 - [x] **Asset Optimization:** Next-generation font and image handling to prevent Layout Shift (CLS).
-- [ ] **Dynamic Routing:** Nested layouts and parallel routing for complex admin views.
+- [x] **Dynamic Routing:** Nested layouts and parallel routing for complex admin views.
 - [ ] **Full-Stack Mutations:** Implementing the Create/Update/Delete cycle using Server Actions.
 - [ ] **SEO & Metadata:** Dynamic metadata generation for enterprise-level search engine optimization.
 
