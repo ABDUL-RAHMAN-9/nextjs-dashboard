@@ -4,7 +4,6 @@ import { z } from "zod";
 import { revalidatePath } from "next/cache";
 import postgres from "postgres";
 import { redirect } from "next/navigation";
-import { areCookiesMutableInCurrentPhase } from "next/dist/server/web/spec-extension/adapters/request-cookies";
 
 const sql = postgres(process.env.POSTGRES_URL!, { ssl: "require" });
 
