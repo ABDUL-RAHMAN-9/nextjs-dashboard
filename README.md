@@ -18,14 +18,6 @@
 
 ---
 
-## 🔗 Live Demo
-
-Experience the full-stack portal in a production environment:
-
-**[Explore the Live Dashboard →](https://acme-fintech-dashboard.vercel.app/)**
-
----
-
 ## 🛠️ Technical Architecture
 
 This project implements the **"Architect Path,"** utilizing the most advanced features of the Next.js ecosystem:
