@@ -55,7 +55,7 @@ This repository serves as a technical log of my mastery over the following conce
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ABDUL-RAHMAN-9/nextjs-dashboard.git
+   git clone https://github.com/abdul-rahman-0x/nextjs-dashboard.git
 
 2. **Install dependencies (using pnpm):**
    ```bash
@@ -75,5 +75,5 @@ This repository serves as a technical log of my mastery over the following conce
 
 ## 👨‍💻 Developer
 
-**[Abdul Rahman](https://github.com/ABDUL-RAHMAN-9)**  
+**[Abdul Rahman](https://github.com/abdul-rahman-0x)**  
 *Full-Stack Developer focusing on Next.js Architecture.*
